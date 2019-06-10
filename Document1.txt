@@ -3,6 +3,7 @@ Main branch changed other stuff
 
 David: Step 1 - I am working on Master
 Jenny: Day1 - working on Contact feature
+Jenny: Day2 - working on other feature
 David: Step 2
 David: Step 3 - Day 2 work
 
