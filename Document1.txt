@@ -1,7 +1,9 @@
 hi I am version 1
-
 Main branch changed other stuff
 
 David: Step 1 - I am working on Master
+Jenny: Day1 - working on Contact feature
 David: Step 2
 David: Step 3 - Day 2 work
+
+Main branch changed other stuff
